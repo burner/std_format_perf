@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/format_perf
+format_perf.so
+format_perf.dylib
+format_perf.dll
+format_perf.a
+format_perf.lib
+format_perf-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
